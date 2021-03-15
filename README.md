@@ -75,7 +75,7 @@ if (you Liked our Project) {
 
 ## Developers
 
-Kartik Khanna
-Srishti Lodha
-Yasharth Tripathi
-Aarushi Shrestha
+Kartik Khanna,
+Srishti Lodha,
+Yasharth Tripathi,
+Aarushi Shrestha.
