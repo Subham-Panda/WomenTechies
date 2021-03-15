@@ -1,6 +1,8 @@
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/kartik0406/Womanhood?logo=github&style=social)](https://github.com/kartik0406/) [![GitHub last commit](https://img.shields.io/github/last-commit/kartik0406/Womanhood?style=social&logo=git)](https://github.com/kartik0406/) [![GitHub stars](https://img.shields.io/github/stars/kartik0406/Womanhood?style=social)](https://github.com/kartik0406/.../stargazers)
 
 # Womanhood
+<b>Members:
+Yasharth Tripathi, Srishti Lodha, Aarushi Shrestha and Kartik Khanna</b>
 ## Team name - Tech Targaryen
 Womanhood is an initiative through which we want to build an all-in-one women health platform, which diagnoses women specific health issues and help raise awareness for its treatment and management. With a lot of fear of the stigma associated with reproductive health services, women often avoid making use of such services. This stigma imposes a great deal of mental stress, fear, and depression on patients and causes delays in the diagnosis and treatment of their conditions. Through Womanhood, we aim at solving this barrier for women to connect with doctor and try to reduce the errors and hassle in the diagnosis of the ailments.
 
