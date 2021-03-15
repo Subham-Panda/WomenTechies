@@ -39,6 +39,18 @@ Womanhood is an initiative through which we want to build an all-in-one women he
   - Xampp
   - Git
   - Github
+
+## Instructions to Install and Setup:
+
+- Download and Install Xampp using link  :- https://www.apachefriends.org/download.html
+- Download the Zip or clone the repository using command : -
+``` bash
+git clone https://github.com/kartik0406/Womanhood.git
+```
+- Go to the directory where Xampp is installed. For eg. C:\xampp\htdocs
+- Copy the project folder and paste it in the address mentioned above.
+- Open PhpMyAdmin, create a database named 'Womanhood' and import the feminine.sql file from the db folder present in the repo.
+- Launch any browser window and search localhost/Womanhood.
   
 We have developed an all-in-one women health platform, which leverages AI to detect and diagnose women specific health issues and thereby help raise awareness for its treatment and management.
 
