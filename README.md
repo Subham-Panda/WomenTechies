@@ -6,7 +6,7 @@ Womanhood is an initiative through which we want to build an all-in-one women he
 
 ## Features
 * <b>Breast Cancer Detection tool :</b> Detects the presence of Metastatic Tissue and Invasive Ductal Carcinoma using two AI Models
-* <b>Predict Cervical Cancer</b> and preliminary test results according to user’s demographic information, habits, and historic medical records
+* <b>Convey general information about diseases that women are prone to and importance of women healthcare</b>
 * <b>Predict PCOS</b> using AI in a person on the basis of their lifestyle and history.
 * Dedicated Dashboard for Patient and Doctor
 * Tracking of previous Prescription & Medical History 
@@ -33,7 +33,7 @@ Womanhood is an initiative through which we want to build an all-in-one women he
   - MySQL (Database)
 
 - Tools
-  - Microsoft Azure Machine Learning Studio for the ML Model(s)
+  
   - Xampp
   - Git
   - Github
