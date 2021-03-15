@@ -31,6 +31,7 @@ Womanhood is an initiative through which we want to build an all-in-one women he
 - Backend
   - PHP 
   - MySQL (Database)
+  - Django
 
 - Tools
   
@@ -41,19 +42,24 @@ Womanhood is an initiative through which we want to build an all-in-one women he
 We have developed an all-in-one women health platform, which leverages AI to detect and diagnose women specific health issues and thereby help raise awareness for its treatment and management.
 
 ### Screenshots
-![](https://github.com/kartik0406/Feminine/blob/main/image1.png)
+![](https://github.com/kartik0406/Womanhood/blob/main/images/img4%20(1).PNG)
 
 
-![](https://github.com/kartik0406/Feminine/blob/main/image2.png)
+![](https://github.com/kartik0406/Womanhood/blob/main/images/IMG3%20(1).PNG)
 
 
-![](https://github.com/kartik0406/Feminine/blob/main/image3.png)
+![](https://github.com/kartik0406/Womanhood/blob/main/images/img5%20(1).PNG)
+
+
+![](https://github.com/kartik0406/Womanhood/blob/main/images/img6%20(1).PNG)
+
+
 Fear of the stigma associated with reproductive health services has always been one of the reasons why youth and unmarried individuals avoid making use of such services. This stigma imposes a great deal of mental stress, fear, and depression on patients and causes delays in the diagnosis and treatment of their conditions.
 A research highlights that there is an urgent need to encourage more public awareness around women's health matters to assure women that they will be taken seriously, and that they should never feel ashamed about their health concerns whether that be their periods, reproductive health, menopause or something else.
 
 Through this web portal, we aim at solving this barrier for women to connect with doctor and try to reduce the errors and hassle in the diagnosis of the ailments.
 
-![](https://github.com/kartik0406/Feminine/blob/main/image4.png)
+![]()
 
 
 ```javascript
