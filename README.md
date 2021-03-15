@@ -44,11 +44,9 @@ We have developed an all-in-one women health platform, which leverages AI to det
 ### Screenshots
 ![](https://github.com/kartik0406/Womanhood/blob/main/images/img4%20(1).PNG)
 
+![](https://github.com/kartik0406/Womanhood/blob/main/images/img5%20(1).PNG)
 
 ![](https://github.com/kartik0406/Womanhood/blob/main/images/IMG3%20(1).PNG)
-
-
-![](https://github.com/kartik0406/Womanhood/blob/main/images/img5%20(1).PNG)
 
 
 ![](https://github.com/kartik0406/Womanhood/blob/main/images/img6%20(1).PNG)
@@ -59,7 +57,9 @@ A research highlights that there is an urgent need to encourage more public awar
 
 Through this web portal, we aim at solving this barrier for women to connect with doctor and try to reduce the errors and hassle in the diagnosis of the ailments.
 
-![]()
+![](https://github.com/kartik0406/Womanhood/blob/main/images/img7%20(1).PNG)
+
+![](https://github.com/kartik0406/Womanhood/blob/main/images/img8%20(1).PNG)
 
 
 ```javascript
