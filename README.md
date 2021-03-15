@@ -49,7 +49,7 @@ git clone https://github.com/kartik0406/Womanhood.git
 ```
 - Go to the directory where Xampp is installed. For eg. C:\xampp\htdocs
 - Copy the project folder and paste it in the address mentioned above.
-- Open PhpMyAdmin, create a database named 'Womanhood' and import the feminine.sql file from the db folder present in the repo.
+- Open PhpMyAdmin, create a database named 'Womanhood' and import the womanhood.sql file from the db folder present in the repo.
 - Launch any browser window and search localhost/Womanhood.
   
 We have developed an all-in-one women health platform, which leverages AI to detect and diagnose women specific health issues and thereby help raise awareness for its treatment and management.
