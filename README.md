@@ -21,6 +21,7 @@ Womanhood is an initiative through which we want to build an all-in-one women he
 - Machine Learning
   - Python - Sklearn, Keras, Tensorflow etc. for the ML Model(s)
   - Django REST Framework (for Model Endpoints)
+  - Scikit-learn
 
 
 - Frontend
@@ -73,9 +74,4 @@ if (you Liked our Project) {
 
 [![GitHub license](https://img.shields.io/github/license/kartik0406/Womanhood?style=social&logo=github)](https://github.com/kartik0406/Womanhood/blob/master/LICENSE)
 
-## Developers
 
-Kartik Khanna,
-Srishti Lodha,
-Yasharth Tripathi,
-Aarushi Shrestha.
