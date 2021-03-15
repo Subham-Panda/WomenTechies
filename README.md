@@ -39,26 +39,19 @@ Womanhood is an initiative through which we want to build an all-in-one women he
   - Github
   
 We have developed an all-in-one women health platform, which leverages AI to detect and diagnose women specific health issues and thereby help raise awareness for its treatment and management.
+
+### Screenshots
 ![](https://github.com/kartik0406/Feminine/blob/main/image1.png)
-We included the following features:
-• Breast Cancer Detection tool : Convolutional Neural Networks to detect the presence of Metastatic tissue and Invasive Ductal Carcinoma Breast’s Histopathological Images.
-• Predict Cervical Cancer and preliminary test results using a Voting Ensemble and Extreme Random Trees models predict presence of and preliminary test results according to user’s demographic information, habits, and historic medical records
-Using the UCI's Machine Learning repository's Cervical cancer (Risk Factors) Data Set.
-• Predict risk of PCOS using AI in a person using a Voting Ensemble model to predict the risk of PCOS on the basis of lifestyle and food intake habits, that are derived from the 2017 Survey Data.
-• Dedicated Dashboard for Patient and Doctor
-• Tracking of previous Prescription & Medical History
-• Menstrual Cycle Tracker, with dietary and workout suggestions.
-• Responsive UI
-• Booking Lab/Appointment
-• Video Conferencing for expert consultancy
+
 
 ![](https://github.com/kartik0406/Feminine/blob/main/image2.png)
-Fear of the stigma associated with reproductive health services has always been one of the reasons why youth and unmarried individuals avoid making use of such services. This stigma imposes a great deal of mental stress, fear, and depression on patients and causes delays in the diagnosis and treatment of their conditions.
+
 
 ![](https://github.com/kartik0406/Feminine/blob/main/image3.png)
+Fear of the stigma associated with reproductive health services has always been one of the reasons why youth and unmarried individuals avoid making use of such services. This stigma imposes a great deal of mental stress, fear, and depression on patients and causes delays in the diagnosis and treatment of their conditions.
 A research highlights that there is an urgent need to encourage more public awareness around women's health matters to assure women that they will be taken seriously, and that they should never feel ashamed about their health concerns whether that be their periods, reproductive health, menopause or something else.
 
-Through this app, we aim at solving this barrier for women to connect with doctor and try to reduce the errors and hassle in the diagnosis of the ailments.
+Through this web portal, we aim at solving this barrier for women to connect with doctor and try to reduce the errors and hassle in the diagnosis of the ailments.
 
 ![](https://github.com/kartik0406/Feminine/blob/main/image4.png)
 
