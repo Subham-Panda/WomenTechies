@@ -9,6 +9,7 @@ Womanhood is an initiative through which we want to build an all-in-one women he
 ## Features
 * <b>Breast Cancer Detection tool :</b> Detects the presence of Metastatic Tissue and Invasive Ductal Carcinoma using two AI Models
 * <b>Convey general information about diseases that women are prone to and importance of women healthcare</b>
+* <b>Run a general diagnosis for the user based on the symptoms she enters (Using general forest classification)</b>
 * <b>Predict PCOS</b> using AI in a person on the basis of their lifestyle and history.
 * Dedicated Dashboard for Patient and Doctor
 * Tracking of previous Prescription & Medical History 
