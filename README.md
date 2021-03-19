@@ -1,6 +1,6 @@
 [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/kartik0406/Womanhood?logo=github&style=social)](https://github.com/kartik0406/) [![GitHub last commit](https://img.shields.io/github/last-commit/kartik0406/Womanhood?style=social&logo=git)](https://github.com/kartik0406/) [![GitHub stars](https://img.shields.io/github/stars/kartik0406/Womanhood?style=social)](https://github.com/kartik0406/.../stargazers)
 
-# Womanhood
+# WomanTechies
 <b>Members:
 Yasharth Tripathi, Srishti Lodha, Aarushi Shrestha and Kartik Khanna</b>
 ## Team name - Tech Targaryen
